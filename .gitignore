@@ -1,0 +1,7 @@
+# VSCode files
+/.vs
+
+# Large files
+*.csv
+*.json
+*.zip
